@@ -1,0 +1,20 @@
+[user]
+	name = Matt Stewart
+	email = smtp.matt@gmail.com
+
+[web]
+	browser = google-chrome
+
+[core]
+	editor = vim
+
+[color]
+	ui = auto
+
+[alias]
+	st = "status"
+	lg = "log --graph --format='%Cred%h%Creset  %<|(15) %C(white)%s %<|(35) %Creset %Cgreen(%cr)%<|(55)  %C(blue)<%an>%Creset%C(yellow)%d%Creset'"
+	co = "checkout"
+  br = "branch"
+[init]
+	templatedir = ~/.git-templates
