@@ -1,0 +1,26 @@
+{
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "workbench.panel.defaultLocation": "right",
+  "telemetry.telemetryLevel": "off",
+  "window.restoreFullscreen": true,
+  "haskell.manageHLS": "GHCup",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "block",
+  "editor.tabSize": 2,
+  "terminal.integrated.copyOnSelection": true,
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnSave": true
+  },
+  "rust-analyzer.inlayHints.parameterHints.enable": false,
+  "rust-analyzer.hover.actions.references.enable": true,
+  "rust-analyzer.inlayHints.bindingModeHints.enable": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "terminal.integrated.shellIntegration.enabled": false
+}
